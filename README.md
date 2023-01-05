@@ -1,7 +1,9 @@
 ### Hi, I'm Wiz 👋
 
 🌱 I’m currently learning React
+
 ⚡ I'm a frontend developer
+
 🔭 Here you can see my pet-projects
 
 
