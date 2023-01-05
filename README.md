@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi, I'm Wiz 👋
+
+🌱 I’m currently learning React
+⚡ I'm a frontend developer
+🔭 Here you can see my pet-projects
+
 
 <!--
 **77wiz77/77wiz77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
