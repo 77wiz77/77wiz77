@@ -6,7 +6,7 @@
 
 🔭 Here you can see my pet-projects
 
-MySkills: React, TS, Redux/Mobx/Recoil, React-router, MaterialUI, SASS/SCCS
+MySkills: React, JS/TS, Redux/Mobx/Recoil, React-router, MaterialUI, SASS/SCCS module
 
 <!--
 **77wiz77/77wiz77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
