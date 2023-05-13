@@ -7,6 +7,8 @@
 🔭 Here you can see my pet-projects
 
 MySkills: React, JS/TS, Redux/Mobx/Recoil, React-router, MaterialUI, SASS/SCCS modules / mixins
+My portfolio web-site: https://77wiz77.github.io/portfolio/
+
 <!--
 **77wiz77/77wiz77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
